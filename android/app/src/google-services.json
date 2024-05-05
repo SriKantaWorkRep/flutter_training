@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156220104984",
+    "project_id": "fooddelivery-4c5ea",
+    "storage_bucket": "fooddelivery-4c5ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156220104984:android:36d1b1d3319bcae355fe6d",
+        "android_client_info": {
+          "package_name": "com.example.dealdox_integrated"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd5Rf__qqG5qKAI_-9qibNve4ARJrpf0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

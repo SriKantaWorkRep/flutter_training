@@ -1,0 +1,33 @@
+{
+"users":[
+  {
+    "name": "Srikanta",
+    "id": 1,
+    "place": "Mysore",
+    "age": 22,
+    "hobbies": ["gym", "drawing"]
+  },
+  {
+    "name": "aftab",
+    "id": 2,
+    "place": "Mangalore ",
+    "age": 24,
+    "hobbies": ["gym", "gaming"]
+  },
+
+  {
+    "name": "Yasowant",
+    "id": 3,
+    "place": "North",
+    "age": 22,
+    "hobbies": ["gym", "coding"]
+  },
+  {
+    "name": "Mayank",
+    "id": 4,
+    "place": "North",
+    "age": 22,
+    "hobbies": ["gym", "coding1"]
+  }
+]
+}

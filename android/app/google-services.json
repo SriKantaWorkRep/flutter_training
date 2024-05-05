@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86301826070",
+    "project_id": "bloc-login-a7072",
+    "storage_bucket": "bloc-login-a7072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86301826070:android:087c5d12126371bfd66937",
+        "android_client_info": {
+          "package_name": "com.example.dealdox_integrated"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYZc0VGEu9K8S-XMxCDPjis1DjpBJ5V60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
