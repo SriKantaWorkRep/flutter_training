@@ -1,12 +1,7 @@
 import 'dart:async';
-import 'dart:convert';
-import 'dart:math';
 
 import 'package:bloc/bloc.dart';
-import 'package:dealdox_integrated/BLOC_grocery_app/features/home/models/home_product_data_model.dart';
-import 'package:dealdox_integrated/Bloc_Api/features/posts/mappers/post_data_ui_model.dart';
-import 'package:dealdox_integrated/Bloc_Api/features/posts/repos/posts_repo.dart';
-import 'package:http/http.dart' as http;
+import '../repos/posts_repo.dart';
 import 'posts_event.dart';
 import 'posts_state.dart';
 

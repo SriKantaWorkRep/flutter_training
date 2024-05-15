@@ -1,3 +1,4 @@
+import 'package:dealdox_integrated/dio_jwt_auth_shared_prefs/login.dart';
 import 'package:flutter/material.dart' ;
 import 'package:bloc/bloc.dart';
 import 'dart:math' as math show Random;
@@ -24,9 +25,9 @@ class MyApp extends StatelessWidget{
 
   @override
   Widget build(BuildContext context){
-    return  const MaterialApp(
+    return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home:HomePage()
+      home:LoginDioJwt()
     );
   }
 }

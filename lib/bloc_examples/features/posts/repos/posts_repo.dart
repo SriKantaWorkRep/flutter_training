@@ -1,6 +1,7 @@
 import 'dart:convert';
-import 'package:dealdox_integrated/Bloc_Api/features/posts/mappers/post_data_ui_model.dart';
 import 'package:http/http.dart' as http;
+
+import '../mappers/post_data_ui_model.dart';
 
 class PostRepo{
   static Future<List<PostDataUiModel>> fetchPosts() async{

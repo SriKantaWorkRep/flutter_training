@@ -1,5 +1,6 @@
-import 'package:dealdox_integrated/Bloc_Api/favorite_app/model/favorite_item_model.dart';
 import 'package:equatable/equatable.dart';
+
+import '../model/favorite_item_model.dart';
 
 abstract class FavoriteItemEvent extends Equatable {
   const FavoriteItemEvent();

@@ -1,9 +1,10 @@
-import 'package:dealdox_integrated/Bloc_Api/favorite_app/favorite_app/favorite_app_bloc.dart';
-import 'package:dealdox_integrated/Bloc_Api/favorite_app/favorite_app/favorite_app_event.dart';
-import 'package:dealdox_integrated/Bloc_Api/favorite_app/favorite_app/favorite_app_state.dart';
-import 'package:dealdox_integrated/Bloc_Api/favorite_app/model/favorite_item_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+
+import '../../model/favorite_item_model.dart';
+import '../favorite_app_bloc.dart';
+import '../favorite_app_event.dart';
+import '../favorite_app_state.dart';
 
 class FavoriteAppScreen extends StatefulWidget {
   const FavoriteAppScreen({super.key});

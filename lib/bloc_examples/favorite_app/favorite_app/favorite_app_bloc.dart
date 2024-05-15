@@ -1,8 +1,8 @@
 import 'package:bloc/bloc.dart';
-import 'package:dealdox_integrated/Bloc_Api/favorite_app/favorite_app/favorite_app_event.dart';
-import 'package:dealdox_integrated/Bloc_Api/favorite_app/favorite_app/favorite_app_state.dart';
 import '../model/favorite_item_model.dart';
 import '../repository/favorite_repository.dart';
+import 'favorite_app_event.dart';
+import 'favorite_app_state.dart';
 
 class FavoriteBloc extends Bloc<FavoriteItemEvent, FavoriteItemState> {
   FavoriteRepository favoriteRepository;

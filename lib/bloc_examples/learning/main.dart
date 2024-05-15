@@ -1,5 +1,4 @@
-import 'package:dealdox_integrated/Bloc_Api/features/posts/ui/posts_view.dart';
-import 'package:dealdox_integrated/Bloc_Api/learning/test_equatable.dart';
+import 'package:dealdox_integrated/bloc_examples/learning/test_equatable.dart';
 import 'package:flutter/material.dart';
 
 void main()=>runApp(const MyApp());
